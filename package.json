@@ -1,0 +1,6 @@
+{
+  "homepage": "https://stefanmilic.github.io/parallaxwebsite",
+"script": {
+  "deploy": "gh-pages -d index/html"
+}
+}
